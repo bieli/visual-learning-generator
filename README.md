@@ -5,18 +5,19 @@ Enjoy :-)
 
 How to run PDF generator?
 -----
-
+```
 $ python3.7 -m venv venv
 $ source venv/bin/activate
 (venv) $ pip3 install -r requirements.txt
 (venv) $ python3 visuallearning.py
 (venv) $ evince visuallearning.pdf # to view output PDF generated file
-
+```
 
 How to run unit test ?
 ----
-
+```
 $ python3.7 -m venv venv
 $ source venv/bin/activate
 (venv) $ pip3 install -r requirements-dev.txt
 (venv) $ make tests
+```
