@@ -21,3 +21,9 @@ $ source venv/bin/activate
 (venv) $ pip3 install -r requirements-dev.txt
 (venv) $ make tests
 ```
+
+
+Practical usage example
+----
+
+![](visual_learning.practice_example.gif)
